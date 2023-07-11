@@ -1,0 +1,14 @@
+.itemBody {
+   margin: 20px;
+}
+
+.img {
+   /* object-fit: contain;
+   /* height: fit-content; */
+   /* background-color: lightgreen;  
+object-fit: none;  
+object-position: center top;   */ 
+display: flex;
+justify-content: space-between;
+
+}

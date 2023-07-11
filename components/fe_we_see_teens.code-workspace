@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../nextjs_learning/tidb-prisma-vercel-demo"
+		}
+	],
+	"settings": {}
+}

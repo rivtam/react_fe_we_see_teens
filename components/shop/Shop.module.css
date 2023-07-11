@@ -1,0 +1,6 @@
+.rowShop{
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   margin: 30px 0;
+}

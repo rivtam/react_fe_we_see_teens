@@ -1,0 +1,19 @@
+.footer {
+  margin-top: 0 0 0 0 ;
+  height: 100px;
+  background-color: rgba(183, 110, 121, 0.9);
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.navItems {
+  margin-bottom: 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.navItem {
+  display: inline-block;
+  margin-right: 1rem;
+}
